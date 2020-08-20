@@ -1,0 +1,2 @@
+{"prev_hash": null, "timestamp": 1554908982.554383, "data": [0]}
+{"prev_hash": null, "timestamp": 1554909044.5690203, "data": "ciao"}
